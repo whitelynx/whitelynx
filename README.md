@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Dave
 
-I'm currently learning [Rust](https://www.rust-lang.org/), specifically for [embedded](https://embassy.dev/) projects.
+I'm currently learning [🦀 Rust](https://www.rust-lang.org/), specifically for [embedded](https://embassy.dev/) projects.
 
 You can also find me on:
 - [My website](https://whitelynx.github.io/)
