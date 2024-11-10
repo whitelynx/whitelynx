@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hi there 👋 I'm Dave
 
+I'm currently learning [Rust](https://www.rust-lang.org/), specifically for [embedded](https://embassy.dev/) projects.
+
+You can also find me on:
+- [My website](https://whitelynx.github.io/)
+- [GitLab](https://gitlab.com/whitelynx/)
+- [OSDN](https://osdn.net/users/whitelynx/)
+- [CodePen](https://codepen.io/whitelynx/)
+- [Hackaday](https://hackaday.io/whitelynx)
+- [Stack Overflow](https://stackoverflow.com/users/677694/codermonkeyfuel)
 <!--
 **whitelynx/whitelynx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
