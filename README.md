@@ -9,6 +9,7 @@ You can also find me on:
 - [CodePen](https://codepen.io/whitelynx/)
 - [Hackaday](https://hackaday.io/whitelynx)
 - [Stack Overflow](https://stackoverflow.com/users/677694/codermonkeyfuel)
+- [Flux.ai](https://www.flux.ai/whitelynx)
 <!--
 **whitelynx/whitelynx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
